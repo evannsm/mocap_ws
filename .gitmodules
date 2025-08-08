@@ -1,0 +1,3 @@
+[submodule "mocap4ros2_optitrack"]
+	path = mocap4ros2_optitrack
+	url = git@github.com:evannsm/mocap4ros2_optitrack.git
