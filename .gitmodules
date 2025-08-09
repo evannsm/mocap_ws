@@ -1,3 +1,10 @@
 [submodule "mocap4ros2_optitrack"]
 	path = mocap4ros2_optitrack
 	url = git@github.com:evannsm/mocap4ros2_optitrack.git
+[submodule "mocap_px4_relay"]
+	path = mocap_px4_relay
+	url = git@github.com:evannsm/mocap_px4_relay.git
+[submodule "px4_msgs"]
+	path = px4_msgs
+	url = https://github.com/PX4/px4_msgs.git
+	branch = release/1.15
