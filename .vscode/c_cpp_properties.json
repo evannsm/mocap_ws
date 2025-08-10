@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include/**",
+                "/usr/local/include/**",
+                "/usr/include/c++/11",
+                "/usr/include/x86_64-linux-gnu/c++/11/**",
+                "/opt/ros/humble/include/**",
+
+                "${workspaceFolder}/../install/mocap4r2_msgs/include/mocap4r2_msgs/**",
+                "${workspaceFolder}/../install/px4_msgs/include/px4_msgs/**",
+                "${workspaceFolder}/../install/mocap4r2_control_msgs/include/mocap4r2_control_msgs/**",
+
+                "${workspaceFolder}/mocap4ros2_optitrack/mocap4r2_optitrack_driver/include/**",
+                "${workspaceFolder}/mocap4ros2_optitrack/mocap4r2_optitrack_driver/NatNetSDK/include/**",
+                "${workspaceFolder}/mocap4r2/mocap4r2_control/mocap4r2_control/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
