@@ -2,3 +2,4 @@
 *.vc.db-shm
 *.vc.db-wal
 .ipch/
+*log/
