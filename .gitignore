@@ -2,4 +2,6 @@
 *.vc.db-shm
 *.vc.db-wal
 .ipch/
-*log/
+*log/mocap4r2
+mocap_msgs
+mocap4r2
