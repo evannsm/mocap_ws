@@ -3,5 +3,4 @@
 *.vc.db-wal
 .ipch/
 *log/mocap4r2
-mocap_msgs
 mocap4r2

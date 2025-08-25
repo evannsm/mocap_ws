@@ -8,3 +8,6 @@
 	path = px4_msgs
 	url = https://github.com/PX4/px4_msgs.git
 	branch = release/1.15
+[submodule "mocap_msgs"]
+	path = mocap_msgs
+	url = git@github.com:evannsm/mocap4r2_msgs.git
