@@ -10,5 +10,6 @@
     "files.associations": {
         "chrono": "cpp",
         "cmath": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/home/factslab-egmc/mocap_ws/src/mocap_msgs"
 }
