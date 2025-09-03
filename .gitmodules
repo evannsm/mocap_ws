@@ -7,7 +7,7 @@
 [submodule "px4_msgs"]
 	path = px4_msgs
 	url = git@github.com:evannsm/px4_msgs.git
-	branch = release/1.15
+	branch = minimal_msgs
 [submodule "mocap_msgs"]
 	path = mocap_msgs
 	url = git@github.com:evannsm/mocap4r2_msgs.git
