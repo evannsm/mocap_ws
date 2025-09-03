@@ -6,7 +6,7 @@
 	url = git@github.com:evannsm/mocap_px4_relay.git
 [submodule "px4_msgs"]
 	path = px4_msgs
-	url = https://github.com/PX4/px4_msgs.git
+	url = git@github.com:evannsm/px4_msgs.git
 	branch = release/1.15
 [submodule "mocap_msgs"]
 	path = mocap_msgs
