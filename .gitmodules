@@ -11,3 +11,6 @@
 [submodule "mocap_msgs"]
 	path = mocap_msgs
 	url = git@github.com:evannsm/mocap4r2_msgs.git
+[submodule "mocap4r2"]
+	path = mocap4r2
+	url = git@github.com:evannsm/mocap4r2.git
