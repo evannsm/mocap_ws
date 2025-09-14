@@ -18,4 +18,10 @@ cd ~/mocap_ws/
 colcon build --symlink-install
 ```
 
-A standard error output is to be expected
+A standard error output is to be expected and is safe to ignore:
+```
+Finished <<< mocap4r2_optitrack_driver [9.61s]                                                                                                         
+--- stderr: rqt_mocap4r2_control                                                                          
+/home/egmc/mocap_ws/src/mocap4r2/mocap4r2_control/rqt_mocap4r2_control/include/rqt_mocap4r2_control/SystemController.hpp:0: Note: No relevant classes found. No output generated.
+---
+```
