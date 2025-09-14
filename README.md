@@ -2,7 +2,7 @@
 
 Create workspace:
 ```bash
-mkdir ~/mocap_ws
+mkdir ~/mocap_ws && cd ~/mocap_ws
 ```
 
 Clone this repo and move it into ~/mocap_ws/src:
