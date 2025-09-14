@@ -18,4 +18,4 @@ cd ~/mocap_ws/
 colcon build --symlink-install
 ```
 
-
+A standard error output is to be expected
