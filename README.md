@@ -15,6 +15,7 @@ git submodule update --init --recursive
 
 Now compile out-of-source with ROS2:
 ```bash
+cd ~/mocap_ws/
 colcon build --symlink-install
 ```
 
